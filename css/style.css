@@ -300,6 +300,10 @@
     .news-cards{
         position: static;
         margin-top: 15px !important;
+        min-height: 40vh;
+    }
+    .latest-news-section{
+        min-height: 40vh;
     }
 }
 @media (max-width:769px){
